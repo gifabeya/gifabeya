@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about JavaScript and Front End so I can start getting into this universe that is programming. 
 - 🌱 I’m currently doing the Alura ONE course about programming and how to start in the technology market. 
 - 📫 How to reach me:
--   E-mail: anabeatrizklend@gmail.com
+-     E-mail: anabeatrizklend@gmail.com
 -     Instagram: @anabeatrizklen
 -     Twitter/X: @bea_bae_
 - 😄 Pronouns: she/her - ela/dela
